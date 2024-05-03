@@ -1,0 +1,82 @@
+Email 1 following information entry:
+Subject: Winfill Developments Profile
+Body:
+    <div>
+        Hi XXXXX,
+    </div>
+    <div><br></div>
+    <div>
+        Thanks for your interest in Winfill Developments, we specialize in designing and building unique homes in Edmonton&#39;s mature neighbourhoods. 
+        Please see our attached corporate profile which outlines our past work, design me thodology, and construction methodology. 
+        If you would like to further discuss a future project, do not hesitate to reply to this email or call 780-803-2405.
+    </div>
+    <div><br></div>
+    <div>
+        We look forward to hearing from you!
+    </div>
+    <div><br></div>
+
+
+Follow Up Email (7 days later):
+Subject: Winfill Developments Profile
+Body:
+    <div>
+        Hi XXXX,
+    </div>
+    <div><br></div>
+    <div>
+        We hope you had a chance to review our past projects. Did our profile answer all your questions?We&#39;d love to hear about your vision for your next home and help make it a reality. 
+        If you have any questions regarding our past builds or ideas for a future project, do not hesitate to reach out to Kurt at 780-803-2405 or reply to this email.
+    </div>
+    <div><br></div>
+    <div>
+        Thanks,
+    </div>
+    <div><br></div>
+
+
+Footer:
+    <div>
+        <div>
+            Winfill Developments
+        </div>
+        <div>
+            P: 780.803.2405
+        </div>
+        <div>
+            E: <a href="mailto:info@winfill.ca">info@winfill.ca</a>
+        </div>
+        <div>
+            <table border="0" cellspacing="0" cellpadding="0" style="color:rgb(0,0,0);border-collapse:collapse">
+                <tbody>
+                    <tr>
+                        <td style="padding:0in">
+                            <table border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse">
+                                <tbody>
+                                    <tr>
+                                        <td style="padding:0in">
+                                            <p class="MsoNormal" style="margin:0in;font-size:11pt;font-family:Calibri,sans-serif">
+                                                <span lang="EN-CA" style="font-size:9pt;font-family:&quot;Open Sans&quot;,sans-serif">
+                                                    <img width="96" height="26" src="https://ci3.googleusercontent.com/mail-sig/AIorK4z71kHeq9ZVSla1ItKSqkBjSz9Hrry-4wFzgvss91X845m8u9UXZ4e8PM-WBkBgHILr4VDB9Bc"><br>
+                                                </span>
+                                            </p>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <div>
+                <a href="http://winfill.ca" target="_blank">winfill.ca</a>
+            </div>
+        </div>
+    </div>
+
+
+Email 1 Text:
+    `Hi ${name || ''},\n\nThanks for your interest in Winfill Developments, we specialize in designing and building unique homes in Edmonton's mature neighbourhoods. Please click the link below to see our corporate profile which outlines our past work, design methodology, and construction methodology.\n\n${profile}\n\nIf you would like to further discuss a future project, do not hesitate to reply to this email or call 780-803-2405.\n\nWe look forward to hearing from you!\n\nWinfill Developments\nP: 780.803.2405\nE: info@winfill.ca\nhttps://winfill.ca`,
+
+Email 2 Text:
+    `Hi ${name || ''},\n\nWe hope you had a chance to review our past projects. Did our profile answer all your questions?We&#39;d love to hear about your vision for your next home and help make it a reality. If you have any questions regarding our past builds or ideas for a future project, do not hesitate to reach out to Kurt at 780-803-2405 or reply to this email.\n\nThanks,\n\nWinfill Developments\nP: 780.803.2405\nE: info@winfill.ca\nhttps://winfill.ca`,
